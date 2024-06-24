@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/1_Scrapethissite" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -116,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719245997784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit_2">
+      <option name="closed" value="true" />
+      <created>1719248310488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719248310488</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit_2">
+      <option name="closed" value="true" />
+      <created>1719248357382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719248357382</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +164,8 @@
       <path value="$PROJECT_DIR$/1_Scrapethissite" />
     </ignored-roots>
     <MESSAGE value="commit_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_1" />
+    <MESSAGE value="commit_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
